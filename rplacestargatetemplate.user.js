@@ -18,7 +18,7 @@ if (window.top !== window.self) {
             setInterval(() => {
               const timestamp = new Date().getTime();
               const queryString = "?t=" + timestamp;
-              i.src = "https://earthyindustry.backendless.app/art_overlay.png" + queryString;
+              i.src = "https://raw.githubusercontent.com/PitchforkAssistant/r-place-stargate-template/main/stargateplacetemplate.png" + queryString;
             }, 10000)
       
             document.getElementsByTagName("mona-lisa-embed")[0].shadowRoot.children[0].getElementsByTagName("mona-lisa-canvas")[0].shadowRoot.children[0].appendChild(
