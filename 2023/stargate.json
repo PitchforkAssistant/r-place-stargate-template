@@ -4,10 +4,42 @@
         {
             "name": "Stargate",
             "sources": [
-                "https://i.imgur.com/6yUfBo9.png"
+                "https://i.imgur.com/jADfvfW.png"
             ],
             "x": 1361,
             "y": 483
+        },
+        {
+            "name": "MaybeNorthStargate",
+            "sources": [
+                "https://i.imgur.com/jADfvfW.png"
+            ],
+            "x": 1000,
+            "y": -300
+        },
+        {
+            "name": "MaybeWestStargate",
+            "sources": [
+                "https://i.imgur.com/jADfvfW.png"
+            ],
+            "x": -300,
+            "y": 700
+        },
+        {
+            "name": "MaybeEastStargate",
+            "sources": [
+                "https://i.imgur.com/jADfvfW.png"
+            ],
+            "x": 1800,
+            "y": 336
+        },
+        {
+            "name": "MaybeSouthStargate",
+            "sources": [
+                "https://i.imgur.com/jADfvfW.png"
+            ],
+            "x": 233,
+            "y": 1500
         }
     ],
     "whitelist": [
