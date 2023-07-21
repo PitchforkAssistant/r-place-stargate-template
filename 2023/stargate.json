@@ -2,14 +2,6 @@
     "contact": "/r/Stargate: discord.gg/j2vBqKWDng",
     "templates": [
         {
-            "name": "Stargate",
-            "sources": [
-                "https://i.imgur.com/jADfvfW.png"
-            ],
-            "x": 1361,
-            "y": 483
-        },
-        {
             "name": "MaybeNorthStargate",
             "sources": [
                 "https://i.imgur.com/jADfvfW.png"
