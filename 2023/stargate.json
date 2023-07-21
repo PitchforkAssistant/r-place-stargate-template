@@ -1,20 +1,20 @@
 {
     "contact": "/r/Stargate: discord.gg/j2vBqKWDng",
     "templates": [
-      {
-        "name": "Stargate",
-        "sources": [
-          "https://i.imgur.com/IuVyKL4.png"
-        ],
-        "x": 600,
-        "y": 0
-      }
+        {
+            "name": "Stargate",
+            "sources": [
+                "https://i.imgur.com/IuVyKL4.png"
+            ],
+            "x": 600,
+            "y": 0
+        }
     ],
     "whitelist": [
-      {
-        "name": "Black Company",
-        "url": "https://raw.githubusercontent.com/onceuponaban/black-company-template/main/bc_template.json"
-      }
+        {
+            "name": "Black Company",
+            "url": "https://raw.githubusercontent.com/onceuponaban/black-company-template/main/bc_template.json"
+        }
     ],
     "blacklist": []
-  }
+}
