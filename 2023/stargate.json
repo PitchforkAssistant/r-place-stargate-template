@@ -4,7 +4,7 @@
         {
             "name": "MaybeNorthStargate",
             "sources": [
-                "https://i.imgur.com/jADfvfW.png"
+                "https://i.imgur.com/IuVyKL4.png"
             ],
             "x": 1000,
             "y": -300
@@ -12,7 +12,7 @@
         {
             "name": "MaybeWestStargate",
             "sources": [
-                "https://i.imgur.com/jADfvfW.png"
+                "https://i.imgur.com/IuVyKL4.png"
             ],
             "x": -300,
             "y": 700
@@ -20,7 +20,7 @@
         {
             "name": "MaybeEastStargate",
             "sources": [
-                "https://i.imgur.com/jADfvfW.png"
+                "https://i.imgur.com/IuVyKL4.png"
             ],
             "x": 2300,
             "y": 336
@@ -28,7 +28,7 @@
         {
             "name": "MaybeSouthStargate",
             "sources": [
-                "https://i.imgur.com/jADfvfW.png"
+                "https://i.imgur.com/IuVyKL4.png"
             ],
             "x": 233,
             "y": 1400
@@ -36,7 +36,7 @@
         {
             "name": "MaybeStargate",
             "sources": [
-                "https://i.imgur.com/jADfvfW.png"
+                "https://i.imgur.com/IuVyKL4.png"
             ],
             "x": 105,
             "y": 648
