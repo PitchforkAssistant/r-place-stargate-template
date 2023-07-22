@@ -2,20 +2,12 @@
     "contact": "/r/Stargate: discord.gg/j2vBqKWDng",
     "templates": [
         {
-            "name": "MaybeEastStargate",
+            "name": "Stargate",
             "sources": [
                 "https://i.imgur.com/IuVyKL4.png"
             ],
-            "x": 2300,
-            "y": 336
-        },
-        {
-            "name": "MaybeSouthStargate",
-            "sources": [
-                "https://i.imgur.com/IuVyKL4.png"
-            ],
-            "x": 233,
-            "y": 1400
+            "x": 441,
+            "y": 487
         }
     ],
     "whitelist": [
