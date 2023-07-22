@@ -32,6 +32,14 @@
             ],
             "x": 233,
             "y": 1400
+        },
+        {
+            "name": "MaybeStargate",
+            "sources": [
+                "https://i.imgur.com/jADfvfW.png"
+            ],
+            "x": 110,
+            "y": 650
         }
     ],
     "whitelist": [
