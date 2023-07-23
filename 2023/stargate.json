@@ -8,6 +8,14 @@
             ],
             "x": 471,
             "y": 327
+        },
+        {
+            "name": "NewStargate",
+            "sources": [
+                "https://i.imgur.com/IuVyKL4.png"
+            ],
+            "x": 58,
+            "y": 1064
         }
     ],
     "whitelist": [
