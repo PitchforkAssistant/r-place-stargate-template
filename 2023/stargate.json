@@ -4,7 +4,7 @@
         {
             "name": "Stargate",
             "sources": [
-                "https://i.imgur.com/xa3tn1W.png"
+                "https://i.imgur.com/QiWBzMA.png"
             ],
             "x": 52,
             "y": 1068
@@ -18,6 +18,10 @@
         {
             "name": "The Swiftie Alliance",
             "url": "https://nyancat.de/mado16.json"
+        },
+        {
+            "name": "TQQ",
+            "url": "https://rentry.co/dh7pw/raw"
         }
     ],
     "blacklist": []
