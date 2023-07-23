@@ -22,6 +22,10 @@
         {
             "name": "TQQ",
             "url": "https://rentry.co/dh7pw/raw"
+        },
+        {
+            "name": "PlaceEU",
+            "url": "https://rentry.co/zauer/raw"
         }
     ],
     "blacklist": []
